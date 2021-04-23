@@ -9,7 +9,6 @@ date: 2021-04-22
   * As Dr Sidney Dekker said 
   > view people as a solution to harness rather than a problem to control, 
   > and consider safety more as a presence of positive capacities.
-   
   * Look at it from a refreshed lens.
   * We want a highly reliable, robust and resilient team of engineers.
 
