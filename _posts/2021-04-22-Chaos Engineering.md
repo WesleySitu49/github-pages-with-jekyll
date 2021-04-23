@@ -3,7 +3,7 @@ Title: Chaos Engineering - Humanistic Chaos
 date: 2021-04-22
 ---
 
-#Humanistic Chaos
+# Humanistic Chaos
 * View people as solution to harness rather than a problem to control
   * Look at it from a refreshed lens.
   * We want a highly reliable, robust and resilient team of engineers.
